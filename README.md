@@ -16,7 +16,10 @@ Este projeto tem como objetivo demonstrar habilidades em **Power BI** aplicadas 
 ## 📈 Dashboard
 Visualização criada no Power BI:
 
-[Dashboard de Vendas](https://github.com/user-attachments/assets/f89abc05-b0c3-41b7-9ea0-c413f75aa3c3)[Dashboard de Vendas](https://github.com/user-attachments/assets/efbbaec5-a842-495c-849d-29f594732a5a)
+![Dashboard de Vendas](https://github.com/user-attachments/assets/42048626-e7ad-47d6-a10c-21583b6ea81b)
+![Dashboard Perfil do Cliente](https://github.com/user-attachments/assets/747e77ca-7609-4d36-84b8-c2cbff894f2d)
+
+
 
 
 
