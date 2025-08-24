@@ -14,9 +14,9 @@ Este projeto tem como objetivo demonstrar habilidades em **Power BI** aplicadas 
 - `imagens/` → Capturas de tela do dashboard.
 
 ## 📈 Dashboard
-Exemplo de visualização criada no Power BI:
+Visualização criada no Power BI:
 
-![Dashboard Preview]![Dashboard de Vendas](https://github.com/user-attachments/assets/f89abc05-b0c3-41b7-9ea0-c413f75aa3c3)![Dashboard Perfil do Cliente](https://github.com/user-attachments/assets/efbbaec5-a842-495c-849d-29f594732a5a)
+[Dashboard de Vendas](https://github.com/user-attachments/assets/f89abc05-b0c3-41b7-9ea0-c413f75aa3c3)![Dashboard Perfil do Cliente](https://github.com/user-attachments/assets/efbbaec5-a842-495c-849d-29f594732a5a)
 
 
 
