@@ -23,7 +23,7 @@ Exemplo de visualização criada no Power BI:
 ## 🔎 Insights principais
 - **33,8% das vendas** foram feitas pelo canal de venda Mobile.
 - A região Sudeste representa **74,66% das vendas**.
-- Clientes com renda maior que R$ 10.000,00, representando **48,43% dos clientes**.
+- Clientes com renda maior que R$ 10.000,00 representam **48,43% dos clientes**.
 
 ## 👨‍💻 Autor
 - [Gustavo Nogueira Lima](https://br.linkedin.com/in/gustavo-nogueira-lima)  
