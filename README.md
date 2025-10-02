@@ -1,6 +1,6 @@
 # 📊 Projeto de Análise de Vendas
 
-Este projeto tem como objetivo demonstrar habilidades em **Power BI** aplicadas a um conjunto de dados de vendas fictício.
+Esse projeto tem como objetivo prever os resultados de um e-commerce com base nas vendas dos últimos três meses e gerar insights para o time de marketing baseado nos dados dos clientes
 
 ## 🚀 Tecnologias utilizadas
 - Excel
