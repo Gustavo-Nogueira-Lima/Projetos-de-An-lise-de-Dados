@@ -25,7 +25,8 @@ Visualização criada no Power BI:
 
 ## 🔎 Insights principais
 - **33,8% das vendas** foram feitas pelo canal de venda Mobile.
-- A região Sudeste representa **74,66% das vendas**.
+- A região sudeste representa **74,66% das vendas**.
+- A renda média dos clientes é de **8,24 mil reais**
 - Clientes com renda maior que R$ 10.000,00 representam **48,43% dos clientes**.
 
 ## 👨‍💻 Autor
