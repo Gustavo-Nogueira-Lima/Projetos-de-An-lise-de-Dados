@@ -16,13 +16,6 @@ Esse projeto tem como objetivo prever os resultados de um e-commerce com base na
 ## 📈 Dashboard
 Visualização criada no Power BI:
 
-![Dashboard de Vendas](https://github.com/user-attachments/assets/42048626-e7ad-47d6-a10c-21583b6ea81b)
-![Dashboard Perfil do Cliente](https://github.com/user-attachments/assets/747e77ca-7609-4d36-84b8-c2cbff894f2d)
-
-
-
-
-
 ## 🔎 Insights principais
 - **33,8% das vendas** foram feitas pelo canal de venda Mobile.
 - A região sudeste representa **74,66% das vendas**.
