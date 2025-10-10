@@ -23,4 +23,4 @@ Visualização criada no Power BI:
 - Clientes com renda maior que R$ 10.000,00 representam **48,43% dos clientes**.
 
 ## 👨‍💻 Autor
-- [Gustavo Nogueira Lima](https://br.linkedin.com/in/gustavo-nogueira-lima)  
+[Gustavo Nogueira Lima](https://br.linkedin.com/in/gustavo-nogueira-lima)  
